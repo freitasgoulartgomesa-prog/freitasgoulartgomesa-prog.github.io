@@ -3,4 +3,3 @@ Allow: /
 
 Sitemap: https://freitasgoulartgomesa-prog.github.io/sitemap.xml
 Sitemap: https://freitasgoulartgomesa-prog.github.io/precifica/sitemap.xml
-Sitemap: https://freitasgoulartgomesa-prog.github.io/calcula-obra/sitemap.xml
